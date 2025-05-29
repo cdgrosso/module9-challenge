@@ -20,4 +20,4 @@ This is a full-stack weather dashboard that displays current and 5-day forecasts
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/cdgrosso/module9-challenge
